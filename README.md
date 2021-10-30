@@ -12,7 +12,7 @@ const person = {
   variables: "camelCase",
   trailing_comma: true,
   
-  hero: "Bill gates",
+  hero: "Bill Gates",
   
   hobbies: [ "Programming", "Swimming", "Gaming", "Touring", "Gaining Knowledge", ],
   knowledge: [ "Data Analysis", "Algorithms","Web Development", "Ecmascript", "Numbers",],
