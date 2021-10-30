@@ -1,4 +1,4 @@
-```
+```Javascript
 
 const person = {
   name: " Akinlade Tope",
@@ -20,7 +20,7 @@ const person = {
   languages: [ "Ecmascript6","HTML", "CSS", ],
   editors: [ "VS Code", ],
   
-  newLanguage: function () {
+  newLanguage() {
     console.log("Hello, World!")
   },
   
