@@ -1,3 +1,6 @@
+
+# About Me
+
 ```Javascript
 
 const person = {
@@ -41,8 +44,10 @@ const person = {
 
 ```
 
-#Skills ad Tools
-![image](https://user-images.githubusercontent.com/73607512/139525328-1868a728-388e-4db1-82c2-eb3ffd3a4b19.png) ![image](https://user-images.githubusercontent.com/73607512/139525336-b56c0f3b-149b-4812-af62-f1627df48e11.png) ![image](https://user-images.githubusercontent.com/73607512/139525307-2df0ef0a-afaa-4840-9c62-e0e1a6d477e7.png) ![image](https://user-images.githubusercontent.com/73607512/139525347-fed83cbc-9072-4597-b915-027927e239c3.png)![image](https://user-images.githubusercontent.com/73607512/139525353-5ea204b5-3ab6-4270-9e68-e6b12e569259.png)![image](https://user-images.githubusercontent.com/73607512/139525368-2067fd89-47a4-40e4-bd2a-38988a36ac47.png)
+# Skills ad Tools
+
+
+![image](https://user-images.githubusercontent.com/73607512/139525328-1868a728-388e-4db1-82c2-eb3ffd3a4b19.png) ![image](https://user-images.githubusercontent.com/73607512/139525336-b56c0f3b-149b-4812-af62-f1627df48e11.png) ![image](https://user-images.githubusercontent.com/73607512/139525307-2df0ef0a-afaa-4840-9c62-e0e1a6d477e7.png) ![image](https://user-images.githubusercontent.com/73607512/139525347-fed83cbc-9072-4597-b915-027927e239c3.png) ![image](https://user-images.githubusercontent.com/73607512/139525353-5ea204b5-3ab6-4270-9e68-e6b12e569259.png) ![image](https://user-images.githubusercontent.com/73607512/139525368-2067fd89-47a4-40e4-bd2a-38988a36ac47.png)
 
  
 
