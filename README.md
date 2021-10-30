@@ -1,3 +1,5 @@
+```
+
 const person = {
   name: " Akinlade Tope",
   age: 26,
@@ -24,7 +26,7 @@ const person = {
   
   favGames (game) {
     const bestGames = [ "FIFA", "NFS", "GTAIV", "MIDNIGHTCLUB", 
-    "MAXPAYNE2" ]
+    "MAXPAYNE3" ]
     const favorite = JSON.parse(fs.readFileSync("favoriteGame.json"))
     
     if (bestGames.includes(game)) {
@@ -32,10 +34,12 @@ const person = {
     } else if (acceptable.includes(food)) {
       console.log("I can try it out")
     } else {
-      console.log("Lets try aother game")
+      console.log("Bleeh...Lets try aother game")
     }
   },
 }
+
+```
 
 <!---
 mckent05/mckent05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
