@@ -19,7 +19,7 @@ const person = {
   
   hobbies: [ "Programming", "Swimming", "Gaming", "Touring", "Gaining Knowledge", ],
   knowledge: [ "Data Analysis", "Algorithms","Web Development", "Ecmascript", "Numbers",],
-  projects: [ "To-do List",],  
+  projects: [ "To-do List","LeaderBoard"],  
   languages: [ "Ecmascript6","HTML", "CSS", ],
   editors: [ "VS Code", ],
   
@@ -33,11 +33,11 @@ const person = {
     const favorite = JSON.parse(fs.readFileSync("favoriteGame.json"))
     
     if (bestGames.includes(game)) {
-      console.log("I love this game, lets play")
-    } else if (acceptable.includes(food)) {
+      console.log("I love this game, let's play")
+    } else if (favorite.includes(game)) {
       console.log("I can try it out")
     } else {
-      console.log("Bleeh...Lets try aother game")
+      console.log("Bleeh...Let's try aother game")
     }
   },
 }
