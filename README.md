@@ -5,7 +5,7 @@
 
 const person = {
   name: " Akinlade Tope",
-  age: 26,
+  age: 27,
   pronouns: [ "he", "him" ],
   personality: [ "Bubbly", "Fun" ],
   
