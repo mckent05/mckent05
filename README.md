@@ -33,7 +33,7 @@ const person = {
     const favorite = JSON.parse(fs.readFileSync("favoriteGame.json"))
     
     if (bestGames.includes(game)) {
-      console.log("I love this game, let's play")
+      console.log("I love this game, let's play");
     } else if (favorite.includes(game)) {
       console.log("I can try it out")
     } else {
