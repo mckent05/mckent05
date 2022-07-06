@@ -37,7 +37,7 @@ const person = {
     } else if (favorite.includes(game)) {
       console.log("I can try it out")
     } else {
-      console.log("Bleeh...Let's try aother game")
+      console.log("Bleeh...Let's try aother game");
     }
   },
 }
